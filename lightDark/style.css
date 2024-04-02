@@ -1,0 +1,7 @@
+:root {
+  --background-color: #f0f0f0; /* Light gray */
+  --card-back-color: #ffffff; /* White */
+  --header-color: #333333; /* Dark gray */
+  --info-box-color: #007bff; /* Blue */
+  --shadow-color: rgba(0, 0, 0, 0.15); /* Light black with 15% opacity */
+}
